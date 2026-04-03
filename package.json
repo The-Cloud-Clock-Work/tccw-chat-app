@@ -11,7 +11,7 @@
       "import": "./dist/chat-app.js",
       "require": "./dist/chat-app.cjs"
     },
-    "./style.css": "./dist/style.css"
+    "./style.css": "./dist/chat-app.css"
   },
   "files": [
     "dist"
